@@ -29,7 +29,7 @@ chmod +x *.sh
 
 # Create a backup of your home directory
 ./backup.sh ~/
-
+```
 ## Technologies Used
 
 Bash shell scripting
